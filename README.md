@@ -16,4 +16,4 @@ to download, open the console and type "npm i"
  
  This application lets the user, view, add, or change data in a mysql database.
 
-Repository Link: https://github.com/danielc53/hw12-employee-tracker
+Repository Link: https://github.com/danielc53/hw-13-ecommerce-backend
